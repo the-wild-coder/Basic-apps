@@ -9,7 +9,7 @@ import sys
 """
 BrowseMaster is more
 of a web content 
-viever than a browser.
+viewer than a browser.
 
 It uses urllib to get the HTML
 from the site and BeautifulSoup
